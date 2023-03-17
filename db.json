@@ -1,0 +1,64 @@
+{
+  "city": [
+    {
+      "Ciudad": "Magdalena, Colombia",
+      "Lat": 11.2320988,
+      "Lng": -74.1950883,
+      "Descripcion": "algo de nubes",
+      "Temperatura": 26.6,
+      "Temperatura maxima": 27.01,
+      "Temperatura minima": 26.6,
+      "id": 3
+    },
+    {
+      "Ciudad": "Aragon High School, 900 Alameda De Las Pulgas, San Mateo, California 94402, Estados Unidos",
+      "Lat": 37.550732499999995,
+      "Lng": -122.32960349999999,
+      "Descripcion": "cielo claro",
+      "Temperatura": 8.85,
+      "Temperatura maxima": 11.32,
+      "Temperatura minima": 6.44,
+      "id": 4
+    },
+    {
+      "Ciudad": "Santa Rosa de Osos, Antioquia, Colombia",
+      "Lat": 6.645317,
+      "Lng": -75.461458,
+      "Descripcion": "nubes",
+      "Temperatura": 10.68,
+      "Temperatura maxima": 10.68,
+      "Temperatura minima": 10.68,
+      "id": 5
+    },
+    {
+      "Ciudad": "Cundinamarca, Colombia",
+      "Lat": 5.1096596,
+      "Lng": -74.0995854,
+      "Descripcion": "muy nuboso",
+      "Temperatura": 9.92,
+      "Temperatura maxima": 9.92,
+      "Temperatura minima": 9.92,
+      "id": 6
+    },
+    {
+      "Ciudad": "Valparaíso, Región de Valparaíso, Chile",
+      "Lat": -33.045846,
+      "Lng": -71.619675,
+      "Descripcion": "cielo claro",
+      "Temperatura": 19.89,
+      "Temperatura maxima": 19.89,
+      "Temperatura minima": 14.69,
+      "id": 7
+    },
+    {
+      "Ciudad": "Cartagena de Indias, Bolívar, Colombia",
+      "Lat": 10.419584,
+      "Lng": -75.527122,
+      "Descripcion": "nubes dispersas",
+      "Temperatura": 25.34,
+      "Temperatura maxima": 25.34,
+      "Temperatura minima": 25.34,
+      "id": 8
+    }
+  ]
+}
